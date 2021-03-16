@@ -1,15 +1,28 @@
-Tushargupta9800 <br/>
-utkarshrocks <br/>
-CrashTV1334 <br/>
-UtkarshGarg123<br/>
+# DataWiz
+"DataWiz" is an android application to interpret the trends in dataset, compare the data across the facilities and also enabling us to find the outliers in the data.
 
-"DataWiz" is new android application built on flutter, which uses the datasets(Veteran health administration behaviour health dataset and COVID-19 dataset) to interpret the trends in the data and compare the data across the facilities and also enabling us to find the outliers in the data.
+#### Datasets Used
 
-It's purpose is to help the users to understand the changing pattern of data in graphical and interactive manner.
-This also aims in finding outliers according to the statistics.One-click feature of the app will reduce the paperwork, save a lot of time for people who otherwise have to rely on physical efforts in finding the data and plotting the statistics. Overall, this application will reduce the trouble of retrieving the updated information which might otherwise be done through paperwork.
+1. Veteran Health Administration Behaviour Health Dataset. 
+2. COVID-19 Statistics Dataset
 
+It's purpose is to help the users to understand the changing pattern of data in graphical and interactive manner. This also aims in finding outliers according to the statistics. One-click feature of the app will reduce the paperwork, save a lot of time for people who otherwise have to rely on physical efforts in finding the data and plotting the statistics. Overall, this application will reduce the trouble of retrieving the updated information which might otherwise be done through paperwork.
 
-# LICENSE
+## Key Functionalities
+
+* Real time context visualization.
+* Easy visualization of data with a graphical classification of elements.
+* Comparing of the elements of the dataset to determine the trends in data
+* Finding the outliers in the data with the help of different models.
+
+## Contributors
+
+1. Tushargupta9800
+2. CrashTV1334
+3. utkarshrocks
+4. UtkarshGarg123
+
+## LICENSE
 ```
 MIT License
 
