@@ -3,7 +3,7 @@ utkarshrocks <br/>
 CrashTV1334 <br/>
 UtkarshGarg123<br/>
 
-"DataWiz" is basically an android application,
+"DataWiz" is basically an android application, which uses the datasets(Veteran health administration behaviour health dataset
 
 
 # LICENSE
