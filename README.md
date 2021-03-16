@@ -3,9 +3,7 @@ utkarshrocks <br/>
 CrashTV1334 <br/>
 UtkarshGarg123<br/>
 
-"DataWiz" is basically an android application, which uses the datasets(Veteran health administration behaviour health dataset and COVID-19 dataset) to interpret the trends in the data and compare the data across the facilities and also enabling us to find the outliers in the data.
-
-It's purpose is to help the users to understand the changing pattern of data in graphical and interactive manner.
+"DataWiz" is basically an android application,
 
 
 # LICENSE
