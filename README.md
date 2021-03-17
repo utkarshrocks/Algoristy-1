@@ -23,7 +23,7 @@ It's purpose is to help the users to understand the changing pattern of data in 
 4. UtkarshGarg123
 
 ## User Interface
-![alt text](https://s4.gifyu.com/images/covid.gif)
+![UI](/screenshots/covid.gif)
 
 ## LICENSE
 ```
