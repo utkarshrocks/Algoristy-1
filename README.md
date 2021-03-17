@@ -22,6 +22,9 @@ It's purpose is to help the users to understand the changing pattern of data in 
 3. utkarshrocks
 4. UtkarshGarg123
 
+## User Interface
+[![covid.gif](https://s4.gifyu.com/images/covid.gif)](https://gifyu.com/image/aA2y)
+
 ## LICENSE
 ```
 MIT License
