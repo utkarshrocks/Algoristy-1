@@ -7,6 +7,7 @@ class LoadVeteranData extends StatefulWidget {
 }
 
 class _LoadVeteranDataState extends State<LoadVeteranData> {
+
   @override
   Widget build(BuildContext context) {
     return WillPopScope(
@@ -124,21 +125,23 @@ class _LoadVeteranDataState extends State<LoadVeteranData> {
   }
 
   Widget ThisRow(String text1, String text2){
-    return Row(
-      mainAxisSize: MainAxisSize.min,
-      mainAxisAlignment: MainAxisAlignment.start,
-      children: [
-        Text(text1 + " : ",overflow: TextOverflow.ellipsis,),
-        Thistext(text2),
-      ],
+    return SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        mainAxisAlignment: MainAxisAlignment.start,
+        children: [
+          SelectableText(text1 + " : "),
+          Thistext(text2),
+        ],
+      ),
     );
   }
 
   Widget Thistext(String text){
     if(text == null)
       return Text("null");
-    if(text.length > 50) return Text(text.substring(0, 50),overflow: TextOverflow.ellipsis);
-    return Text(text,overflow: TextOverflow.ellipsis);
+    return SelectableText(text);
   }
 
 }

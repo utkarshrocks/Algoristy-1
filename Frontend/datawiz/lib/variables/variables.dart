@@ -19,7 +19,7 @@ TextStyle FontStyle(){
 int finalLength = 10;
 int StartIndex = 0;
 int NumberTiles = 10;
-int CurrentPage = 82;
+int CurrentPage = 0;
 
 TextStyle FontStyle2(){
   return TextStyle(

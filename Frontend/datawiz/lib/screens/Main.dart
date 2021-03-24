@@ -1,6 +1,5 @@
 import 'package:datawiz/api/GetCovidData.dart';
 import 'package:datawiz/api/GetVeteranData.dart';
-import 'package:datawiz/screens/LoadCovidCases.dart';
 import 'package:datawiz/screens/loading.dart';
 import 'package:flutter/material.dart';
 
@@ -68,6 +67,20 @@ class _MainState extends State<Main> {
                         child: Text("Veteran HealthCare Data",style: TextStyle(color: Colors.white),),
                       ),
                     ),
+                    // Container(
+                    //   color: Colors.blue,
+                    //   width: MediaQuery.of(context).size.width,
+                    //   height: 50,
+                    //   margin: EdgeInsets.symmetric(horizontal: 20),
+                    //   child: TextButton(
+                    //     onPressed: (){
+                    //       setState(() {
+                    //         Loading = true;
+                    //       });
+                    //     },
+                    //     child: Text("About Us",style: TextStyle(color: Colors.white),),
+                    //   ),
+                    // ),
                   ],
                 ),
                 (Loading)?Container(
