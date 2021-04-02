@@ -36,6 +36,11 @@ It's purpose is to help the users to understand the changing pattern of data in 
 3. utkarshrocks
 4. UtkarshGarg123
 
+# Screenshots/:-
+|Splashscreen|Get Started|Homepage|India Covid Stats|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S1.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S2.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S3.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S4.jpeg" height="350em" />|
+
 ## User Interface
 ![UI](/screenshots/covid.gif)
 
