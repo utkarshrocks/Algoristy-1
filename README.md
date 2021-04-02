@@ -3,6 +3,27 @@
 
 [visit here](https://data-wiz-context-visualizer.herokuapp.com/)
 
+# Screenshots:-
+|Splashscreen|Get Started|Homepage|India Covid Stats|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S1.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S2.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S3.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S4.jpeg" height="350em" />|
+
+|Covid Page Drawer|Choose States|Covid Outliers|Compare Indian States|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S5.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S6.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S7.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S8.jpeg" height="350em" />|
+
+|Compare States Charts|Veteran Data Table|Veteran Data|Veteran Outliers|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S9.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S10.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S11.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S12.jpeg" height="350em" />|
+
+|News Page|News Page Drawer|Choose Country|Choose Channels|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S13.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S14.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S15.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S16.jpeg" height="350em" />|
+
+|Worldometer|About Screen|Contribution Screen|
+:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S17.jpeg" height="350em" />| ``` To be made``` | ```To be Made``` |
+
 #### Datasets Used
 
 1. Veteran Health Administration Behaviour Health Dataset. 
@@ -35,27 +56,6 @@ It's purpose is to help the users to understand the changing pattern of data in 
 2. CrashTV1334
 3. utkarshrocks
 4. UtkarshGarg123
-
-# Screenshots:-
-|Splashscreen|Get Started|Homepage|India Covid Stats|
-:-------:|:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S1.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S2.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S3.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S4.jpeg" height="350em" />|
-
-|Covid Page Drawer|Choose States|Covid Outliers|Compare Indian States|
-:-------:|:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S5.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S6.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S7.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S8.jpeg" height="350em" />|
-
-|Compare States Charts|Veteran Data Table|Veteran Data|Veteran Outliers|
-:-------:|:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S9.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S10.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S11.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S12.jpeg" height="350em" />|
-
-|News Page|News Page Drawer|Choose Country|Choose Channels|
-:-------:|:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S13.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S14.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S15.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S16.jpeg" height="350em" />|
-
-|Worldometer|About Screen|Contribution Screen|
-:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S17.jpeg" height="350em" />| ``` To be made``` | ```To be Made``` |
 
 ## LICENSE
 ```
