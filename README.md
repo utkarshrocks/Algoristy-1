@@ -41,8 +41,9 @@ It's purpose is to help the users to understand the changing pattern of data in 
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S1.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S2.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S3.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S4.jpeg" height="350em" />|
 
-## User Interface
-![UI](/screenshots/covid.gif)
+|Covid Page Drawer|Choose States|Covid Outliers|Compare Indian States|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S5.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S6.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S7.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S8.jpeg" height="350em" />|
 
 ## LICENSE
 ```
