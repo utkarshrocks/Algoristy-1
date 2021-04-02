@@ -36,7 +36,7 @@ It's purpose is to help the users to understand the changing pattern of data in 
 3. utkarshrocks
 4. UtkarshGarg123
 
-# Screenshots/:-
+# Screenshots:-
 |Splashscreen|Get Started|Homepage|India Covid Stats|
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S1.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S2.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S3.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S4.jpeg" height="350em" />|
@@ -44,6 +44,10 @@ It's purpose is to help the users to understand the changing pattern of data in 
 |Covid Page Drawer|Choose States|Covid Outliers|Compare Indian States|
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S5.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S6.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S7.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S8.jpeg" height="350em" />|
+
+|Compare States Charts|Veteran Data Table|Veteran Data|Veteran Outliers|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S9.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S10.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S11.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S12.jpeg" height="350em" />|
 
 ## LICENSE
 ```
