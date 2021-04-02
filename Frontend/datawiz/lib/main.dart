@@ -1,13 +1,9 @@
-import 'package:datawiz/screens/Covid/CompareCovid.dart';
-import 'package:datawiz/screens/Covid/LoadCovidCases.dart';
-import 'package:datawiz/screens/Main.dart';
-import 'package:datawiz/screens/Veteran/LoadVeteranData.dart';
-import 'package:datawiz/screens/aboutus.dart';
+import 'package:datawiz/Screens/SplashScreens/SplashScreen.dart';
+import 'package:datawiz/SettingsAndVariables/Routes/routes.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MyApp());
-}
+void main() {runApp(MyApp());}
+
 
 class MyApp extends StatefulWidget {
   @override
@@ -19,17 +15,8 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Main(),
-      initialRoute: "/initialroute",
+      home: SplashScreen(),
       routes: routes,
     );
   }
 }
-
-var routes = <String,WidgetBuilder>{
-  "/initialroute": (BuildContext context) => Main(),
-  "/loadcoviddata": (BuildContext context) => LoadCovidData(),
-  "/loadveterandata": (BuildContext context) => LoadVeteranData(),
-  "/comparecoviddata": (BuildContext context) => CompareCovid(),
-  "/aboutus": (BuildContext context) => AboutUs(),
-};
