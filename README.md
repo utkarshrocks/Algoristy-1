@@ -24,6 +24,9 @@ It's purpose is to help the users to understand the changing pattern of data in 
 * Covid 19 statistics for the indian states
 * Veteran Health Administration Behaviour Health Dataset
 * Outliers of the Veteran Health Administration Behaviour Health Dataset
+* Covid 19 news
+* Channel news
+* Country news
 
 ## Contributors
 
