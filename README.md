@@ -49,6 +49,10 @@ It's purpose is to help the users to understand the changing pattern of data in 
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S9.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S10.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S11.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S12.jpeg" height="350em" />|
 
+|News Page|News Page Drawer|Choose Country|Choose Channels|
+:-------:|:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S13.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S14.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S15.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S16.jpeg" height="350em" />|
+
 ## LICENSE
 ```
 MIT License
