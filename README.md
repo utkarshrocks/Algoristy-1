@@ -27,6 +27,7 @@ It's purpose is to help the users to understand the changing pattern of data in 
 * Covid 19 news
 * Channel news
 * Country news
+* worldometer
 
 ## Contributors
 
