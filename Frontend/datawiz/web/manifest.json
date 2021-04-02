@@ -1,6 +1,6 @@
 {
-    "name": "fdatawiz",
-    "short_name": "fdatawiz",
+    "name": "datawiz",
+    "short_name": "datawiz",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
