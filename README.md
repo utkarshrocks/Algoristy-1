@@ -1,6 +1,8 @@
 # DataWiz
 "DataWiz" is an android application to interpret the trends in dataset, compare the data across the facilities and also enabling us to find the outliers in the data.
 
+[visit here](https://data-wiz-context-visualizer.herokuapp.com/)
+
 #### Datasets Used
 
 1. Veteran Health Administration Behaviour Health Dataset. 
