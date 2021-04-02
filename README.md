@@ -53,6 +53,10 @@ It's purpose is to help the users to understand the changing pattern of data in 
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S13.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S14.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S15.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S16.jpeg" height="350em" />|
 
+|Worldometer|About Screen|Contribution Screen|
+:-------:|:-------:|:-----:
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S17.jpeg" height="350em" />| ``` To be made``` | ```To be Made``` |
+
 ## LICENSE
 ```
 MIT License
