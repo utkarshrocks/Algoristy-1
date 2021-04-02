@@ -1,4 +1,4 @@
-# fdatawiz
+# datawiz
 
 A new Flutter application.
 
