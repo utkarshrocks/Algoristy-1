@@ -17,6 +17,12 @@ It's purpose is to help the users to understand the changing pattern of data in 
 * Comparing of the elements of the dataset to determine the trends in data
 * Finding the outliers in the data with the help of different models.
 
+## Features
+
+* Covid 19 statistics of india
+* Outliers of Indian Covid Statistics
+* Covid 19 statistics for the indian states
+
 ## Contributors
 
 1. Tushargupta9800
