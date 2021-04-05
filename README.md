@@ -1,7 +1,8 @@
 # DataWiz
 "DataWiz" is an android application to interpret the trends in dataset, compare the data across the facilities and also enabling us to find the outliers in the data.
 
-[visit here](https://data-wiz-context-visualizer.herokuapp.com/)
+[visit our site here](https://data-wiz-context-visualizer.herokuapp.com/)
+[Download the apk from here](https://github.com/Tushargupta9800/Algoristy/blob/main/Application/datawiz.apk)
 
 # Screenshots:-
 |Splashscreen|Get Started|Homepage|India Covid Stats|
