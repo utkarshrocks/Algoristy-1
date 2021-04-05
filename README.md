@@ -22,7 +22,7 @@
 
 |Worldometer|About Screen|Contribution Screen|
 :-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S17.jpeg" height="350em" />| ``` To be made``` | <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S18.jpeg" height="350em" /> |
+<img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S17.jpeg" height="350em" />| <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S19.jpeg" height="350em" /> | <img src="https://github.com/Tushargupta9800/Algoristy/blob/main/screenshots/S18.jpeg" height="350em" /> |
 
 #### Datasets Used
 
