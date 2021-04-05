@@ -10,6 +10,30 @@ class AboutUs extends StatefulWidget {
 
 class _AboutUsState extends State<AboutUs> {
 
+  String endNote = "Hi, This is Team Algoristy consists of 4 members"
+      "\n\t-Tushar Gupta"
+      "\n\t-Soham Mehta"
+      "\n\t-Utkarsh Gangwar"
+      "\n\t-Utkarsh garg"
+      "\n\nWe The Students Of Indian Institute of Information Technology, Allahabad have made this project as an Assignment of SOE course. In making we had learnt a lots of things like"
+      "\n\t-Using the Apis"
+      "\n\t-Team Working"
+      "\n\t-Importance of Use case, Activity and other diagrams"
+      "\n\t-Understanding flutter better"
+      "\n\t-Responsiveness of the Application"
+      "\n\t-UI/UX designs"
+      "\n\t-Handling the big dataset"
+      "\n\t-And other things"
+      "\n\nWhile making this project we have also faced some difficulties like"
+      "\n\t-Using http package for sending request"
+      "\n\t-How to use Flutter framework for a big project like this"
+      "\n\t-Low Internet Connectivity"
+      "\n\t-Using Github for team working"
+      "\n\t-Handling the big dataset"
+      "\n\t-Making screens Responsive"
+      "\n\t-And other things"
+      "\n\nIn the end note we just want to thank our Professors and TAs for helping us out and making us believe that we can build our own big applications like this. Projects made by our other classmates also makes us curious and excited to open other doors and explore new things.";
+
   List<String> Aboutus = [
     "On The HomeScreen You'll find few options to explore.Swap the tiles to view remaining options.",
     "Touch the curve to get more info about the Covid 19 on a particular date",
@@ -64,10 +88,10 @@ class _AboutUsState extends State<AboutUs> {
                 ),
                 Container(
                   padding: EdgeInsets.symmetric(horizontal: 10,vertical: 5),
-                  child: Text("Hi, This is Team Algoristy",style: TextStyle(
+                  child: Text("Tutorial",style: TextStyle(
                       fontFamily: "SplashFont",
                       color: Colors.white,
-                      fontSize: 15,
+                      fontSize: 25,
                       fontStyle: FontStyle.italic,
                       fontWeight: FontWeight.bold
                   ),),
@@ -95,6 +119,40 @@ class _AboutUsState extends State<AboutUs> {
                       ),
                     ),
                   ],
+                ),
+                Container(
+                  padding: EdgeInsets.symmetric(horizontal: 10,vertical: 5),
+                  child: Text("End Note",style: TextStyle(
+                      fontFamily: "SplashFont",
+                      color: Colors.white,
+                      fontSize: 10,
+                      fontStyle: FontStyle.italic,
+                      decoration: TextDecoration.underline,
+                      fontWeight: FontWeight.bold
+                  ),),
+                ),
+                Container(
+                  padding: EdgeInsets.symmetric(horizontal: 10,vertical: 5),
+                  child: Text(endNote,style: TextStyle(
+                      fontFamily: "SplashFont",
+                      color: Colors.grey[400],
+                      fontSize: 8,
+                      fontStyle: FontStyle.italic,
+                      fontWeight: FontWeight.bold
+                  ),),
+                ),
+                Align(
+                  alignment: Alignment.bottomRight,
+                  child: Container(
+                    padding: EdgeInsets.symmetric(horizontal: 10,vertical: 5),
+                    child: Text("Thanks",style: TextStyle(
+                        fontFamily: "SplashFont",
+                        color: Colors.grey[400],
+                        fontSize: 20,
+                        fontStyle: FontStyle.italic,
+                        fontWeight: FontWeight.bold
+                    ),),
+                  ),
                 ),
               ],
             ),
