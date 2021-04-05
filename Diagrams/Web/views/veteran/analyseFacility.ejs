@@ -1,0 +1,66 @@
+<%-include("../partials/header.ejs")%>
+<div class="main-content">
+    <div class="row">
+        <div class="col-12">
+            <div class="container dropdown-container" id="drpdwnCont22">
+                <select name="facility" id="facilitySel" class="mySelect">
+                    <option value="" selected="selected">--Select--</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="container" id="dataContainer-analyse">
+                <table>
+                    <tr class="dataContent">
+                        <td class="tag tag-name">Country </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet grey" id="country"></td>
+                    </tr>
+                    <tr class="dataContent">
+                        <td class="tag tag-name">State </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet grey" id="state"></td>
+                    </tr>
+                    <tr class="dataContent">
+                        <td class="tag tag-name">City </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet grey" id="city"></td>
+                    </tr>
+
+                    <tr class="dataContent">
+                        <td class="tag tag-name">Condition </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet grey" id="condition"></td>
+                    </tr>
+                    <tr class="dataContent">
+                        <td class="tag tag-name">Measure Name </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet grey" id="measure"></td>
+                    </tr>
+                    <tr class="dataContent">
+                        <td class="tag tag-name">Samples </td>
+                        <td class="tag">: </td>
+                        <td class="num-vet green" id="samples"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="container col-center-head" id="dataContainer">
+                <p class="dataContent22">Score</p>
+            </div>
+            <div class="container">
+                <div class="container index-col-center1" id="scoreGraph">
+                    <canvas class="dataContent11" id="analyse-pieChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+<script src="/javascripts/veteran/veteranAPI_facility.js"></script>
+<%-include("../partials/footer.ejs")%>
