@@ -16,10 +16,10 @@ class _ContributionState extends State<Contribution> {
   List<String> rollnumbers = ["IIT2019043","IIT2019033","IIT2019023","IIT2019026"];
   List<String> github = ["https://github.com/Tushargupta9800", "https://github.com/CrashTV1334", "https://github.com/utkarshrocks", "https://github.com/UtkarshGarg123"];
   List<String> whatsapp = [
-    "https://wa.me/+918958202040?text=Hi, Tushar",
-    "https://wa.me/+916352035506?text=Hi, Soham",
-    "https://wa.me/+919548991654?text=Hi, Utkarsh",
-    "https://wa.me/+919084782371?text=Hi, Utkarsh"
+    "https://wa.me/+91100?text=Hi, Tushar",
+    "https://wa.me/+91100?text=Hi, Soham",
+    "https://wa.me/+91100?text=Hi, Utkarsh",
+    "https://wa.me/+91100?text=Hi, Utkarsh"
   ];
   List<String> gmail = [
     "mailto:iit2019043@iiita.ac.in?Subject=Hi, Tushar",
