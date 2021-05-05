@@ -36,24 +36,24 @@ class VeteranModel {
         this.endDate,
         this.location});
 
-  VeteranModel.fromJson(List<dynamic> json) {
-    facilityId = json[8];
-    facilityName = json[9];
-    address = json[10];
-    city = json[11];
-    state = json[12];
-    zIPCode = json[13];
-    countryName = json[14];
-    phoneNumber = json[15];
-    condition = json[16];
-    measureID = json[17];
-    measureName = json[18];
-    score = json[19];
-    sample = json[20];
-    footnote = json[21];
-    startDate = json[22];
-    endDate = json[23];
-    location = json[24];
+  VeteranModel.fromJson(var json) {
+    facilityId = json["Facility ID"];
+    facilityName = json["Facility Name"];
+    address = json["Address"];
+    city = json["City"];
+    state = json["State"];
+    zIPCode = json["ZIP Code"].toString();
+    countryName = json["County Name"];
+    phoneNumber = json["Phone Number"];
+    condition = json["Condition"];
+    measureID = json["Measure ID"];
+    measureName = json["Measure Name"];
+    score = json["Score"].toString();
+    sample = json["Sample"].toString();
+    footnote = json["Footnote"].toString();
+    startDate = json["Start Date"];
+    endDate = json["End Date"];
+    location = json["Location"];
   }
 
   Map<String, dynamic> toJson() {

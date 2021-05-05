@@ -23,7 +23,7 @@ class _LoadVeteranInfoState extends State<LoadVeteranInfo> {
 
   @override
   void initState() {
-    GetVeteranData().then((value){
+    GetVeteranData(context).then((value){
       getOutliers();
       setState(() {
         getData();
