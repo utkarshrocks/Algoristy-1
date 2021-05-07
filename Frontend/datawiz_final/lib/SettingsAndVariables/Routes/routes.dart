@@ -7,6 +7,7 @@ import 'package:datawiz_final/Screens/HomeScreen/SubPages/Covid/News/CovidNews.d
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Covid/News/FullNews.dart';
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Covid/News/Worldometer.dart';
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Covid/Outliers.dart';
+import 'package:datawiz_final/Screens/HomeScreen/SubPages/Covid/Prediction.dart';
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Others/AboutUs.dart';
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Others/Contribution.dart';
 import 'package:datawiz_final/Screens/HomeScreen/SubPages/Veteran/LoadVetranInfo.dart';
@@ -29,6 +30,7 @@ var routes = <String,WidgetBuilder>{
   CovidNewsRouteCode : (BuildContext context) => CovidNews(),
   CovidCompareRouteCode : (BuildContext context) => CompareStates(),
   CovidOutliersRouteCode : (BuildContext context) => CovidOutliers(),
+  CovidPredictionRouteCode : (BuildContext context) => Prediction(),
 
   //veteran
   VeteranDataRouteCode : (BuildContext context) => LoadVeteranInfo(),

@@ -13,6 +13,7 @@ String CovidDataRouteCode = CovidIndiaDataRouteCode + "/state";
 String CovidNewsRouteCode = HomePageRouteCode + "/covid/news";
 String CovidOutliersRouteCode = HomePageRouteCode + "/covid/outliers";
 String CovidCompareRouteCode = HomePageRouteCode + "/covid/compare/states";
+String CovidPredictionRouteCode = HomePageRouteCode + "/covid/predict";
 
 //veteran
 String VeteranDataRouteCode = HomePageRouteCode + "/veterandata";

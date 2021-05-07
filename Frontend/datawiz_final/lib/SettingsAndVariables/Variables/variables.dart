@@ -38,6 +38,21 @@ List<Color> IndiaShowDataColor = [
   Colors.blue,
   Colors.red,
 ];
+
+
+List<String> PredictNames = ["Total Recovered:  ", "Total Confirmed:  ", "Total Deaths:  ",
+  "Daily Recovered:  ", "Daily Confirmed:  ", "Daily Deaths:  "];
+List<String> PredictStrings(PerDayCovidCasesModel x){
+  List<String> IndiaShowData = [
+    x.Totalrecovered.toString(),
+    x.Totalconfirmed.toString(),
+    x.Totaldeaths.toString(),
+    x.dailyRecovered.toString(),
+    x.dailyConfirmed.toString(),
+    x.dailyDeaths.toString(),
+  ];
+  return IndiaShowData;
+}
 List<String> IndiaShowDataNames = ["Total Active:  ", "Confirmed:  ", "Deaths:  ",
   "Recovered:  ", "Today Confirmed:  ", "Today Deaths:  ", "Today Recovered:  ", "Recovered Rate:  ", "Death Rate:  "];
 List<String> GetSelectedStateData(){

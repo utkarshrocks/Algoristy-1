@@ -238,6 +238,33 @@ class _LoadCovidInfoState extends State<LoadCovidInfo> {
                                     ),
                                   ),
                                 ),
+                                GestureDetector(
+                                  onTap: (){
+                                    setState(() {
+                                      ShowMenu = !ShowMenu;
+                                      print("predict");
+                                      Navigator.pushNamed(context, CovidPredictionRouteCode);
+                                    });
+                                  },
+                                  child: Container(
+                                    height: 100,
+                                    child: Center(
+                                      child: Row(
+                                        mainAxisSize: MainAxisSize.max,
+                                        mainAxisAlignment: MainAxisAlignment.center,
+                                        crossAxisAlignment: CrossAxisAlignment.end,
+                                        children: [
+                                          Text("P",style: FontStyle3(Colors.white),),
+                                          Text("redict",style: TextStyle(
+                                            fontSize: 12,
+                                            fontWeight: FontWeight.w500,
+                                            color: Colors.white,
+                                          ),),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ),
                               ],
                             ),
                           ),
