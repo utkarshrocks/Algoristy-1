@@ -1,0 +1,4 @@
+We use Activity Diagrams to illustrate the flow of control in a system and refer to the steps involved in the execution of a use case. We model sequential and concurrent activities using activity diagrams. So, we basically depict workflows visually using an activity diagram. An activity diagram focuses on condition of flow and the sequence in which it happens. We describe or depict what causes a particular event using an activity diagram.
+An activity diagram is a behavioral diagram i.e. it depicts the behavior of a system.
+An activity diagram portrays the control flow from a start point to a finish point showing the various decision paths that exist while the activity is being executed.
+An activity diagram is used by developers to understand the flow of programs on a high level. It also enables them to figure out constraints and conditions that cause particular events. A flow chart converges into being an activity diagram if complex decisions are being made.
